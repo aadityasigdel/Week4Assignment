@@ -1,0 +1,15 @@
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.AssemblyInfoInputs.cache
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.AssemblyInfo.cs
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.sourcelink.json
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\bin\Debug\net9.0\Week4assignment.exe
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\bin\Debug\net9.0\Week4assignment.deps.json
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\bin\Debug\net9.0\Week4assignment.runtimeconfig.json
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\bin\Debug\net9.0\Week4assignment.dll
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\bin\Debug\net9.0\Week4assignment.pdb
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.dll
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\refint\Week4assignment.dll
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.pdb
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\Week4assignment.genruntimeconfig.cache
+C:\Users\acer\Downloads\c#\Week4\Week4assignment\obj\Debug\net9.0\ref\Week4assignment.dll
